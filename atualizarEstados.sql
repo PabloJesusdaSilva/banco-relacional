@@ -9,7 +9,7 @@ UPDATE states
 SET 
    nome = 'Paraná', 
    populacao = 11.32
-WHERE sigla =  'PR'
+WHERE sigla = 'PR'
 
 SELECT 
    est.nome, 
